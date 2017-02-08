@@ -1,4 +1,4 @@
 # cgathergood.github.io
 Personal Site
 
-<img src="web_hi_res_512.png">
+<img src="logo_icon.png">
