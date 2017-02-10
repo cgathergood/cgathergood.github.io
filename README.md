@@ -1,4 +1,4 @@
 # cgathergood.github.io
 Personal Site
 
-<img src="images/logo.svg">
+<img src="images/logo.png">
